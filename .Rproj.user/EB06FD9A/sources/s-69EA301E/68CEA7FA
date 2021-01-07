@@ -1,0 +1,24 @@
+{
+    "id": "68CEA7FA",
+    "path": "~/projs/safegraph-applet/data/fonts/custom_font.toml",
+    "project_path": "data/fonts/custom_font.toml",
+    "type": "toml",
+    "hash": "2159796116",
+    "contents": "",
+    "dirty": false,
+    "created": 1609994151402.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "cursorPosition": "4,95",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1610035490,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1610035490455,
+    "read_only": false,
+    "read_only_alternatives": []
+}

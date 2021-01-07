@@ -1,0 +1,24 @@
+{
+    "id": "53CFA622",
+    "path": "~/projs/safegraph-applet/config/_default/params.toml",
+    "project_path": "config/_default/params.toml",
+    "type": "toml",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1609994133652.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "cursorPosition": "21,0",
+        "scrollLine": "1"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1610035519,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1610035519208,
+    "read_only": false,
+    "read_only_alternatives": []
+}

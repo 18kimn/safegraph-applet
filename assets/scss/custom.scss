@@ -1,0 +1,38 @@
+ .navbar {
+  height: 70px;
+  background: $sta-menu-primary;
+/* this is the part that takes out the shadow & the only edit */
+  box-shadow: none;
+  font-size: 18px;
+  font-weight: 100;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+  padding: 0 1rem;
+}
+
+.article-container {
+  margin: 5%;
+  width: 90%;
+  max-width: 90%;
+}
+
+div.article-style {
+  overflow-y: scroll;
+  overflow-x: visible;
+}
+
+.list {
+    overflow-y: scroll;
+    overflow-x: scroll;
+}
+
+ body {
+   font-weight: 500;
+ }
+ 
+  p {
+   font-weight: 500;
+ }
